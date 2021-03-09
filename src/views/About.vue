@@ -6,7 +6,7 @@
         <div>
           <b-button variant="dark" v-b-toggle.collapse-2 class="m-1">more&more</b-button>
           <b-collapse id="collapse-2">
-            <b-card class="b-card"><i>trying Vue since December 2019</i></b-card>
+            <b-card class="b-card"><i>Trying Vue Since December 2019</i></b-card>
           </b-collapse>   
         </div>
         <p class="text-right author"><i>by ploidplanp</i></p>
